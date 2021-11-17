@@ -5,6 +5,6 @@
 </head>
     <body>
         <h2>Hello World!</h2>
-        Jenkins 修改
+        Jenkins Github 钩子
     </body>
 </html>
